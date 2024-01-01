@@ -1,2 +1,2 @@
 # ETL_Python-
-Projetos feitos para estudos em python
+ETL feito para identificar como as universidades brasileiras se classificam entre si, baseado no QS ranking, que, avalia universidades do mundo inteiro 
